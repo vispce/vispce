@@ -1,4 +1,6 @@
-# Anything good happen today?
+<h3 align="center">
+    Doing anything isn't scary; doing nothing is.
+</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+%2B+Self-Hosting+Enthusiast;Full-Stack+Developer;Automation+Explorer;Ansible+%2B+K8s+4+The+Win!" alt="Typing SVG" />
@@ -15,7 +17,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=gitlab&logoColor=white)
 
 [![Email](https://img.shields.io/badge/Email-vispce%40gmail.com-000000?style=flat-square&logo=google&logoColor=white)](mailto:vispce@gmail.com)
