@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
     Doing anything isn't scary; doing nothing is.
-</h3>
+</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+%2B+Self-Hosting+Enthusiast;Full-Stack+Developer;Automation+Explorer;Ansible+%2B+K8s+4+The+Win!" alt="Typing SVG" />
