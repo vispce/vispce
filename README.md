@@ -1,10 +1,29 @@
-<h1 align="center">
-    Doing anything isn't scary, doing nothing is.
-</h1>
+Hi, I'm Jiachen. I specialize in DevOps, cloud infrastructure and full-stack engineering.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+%2B+Self-Hosting+Enthusiast;Full-Stack+Developer;Automation+Explorer;Ansible+%2B+K8s+4+The+Win!" alt="Typing SVG" />
-</div>
+I work as a DevOps / Full-Stack Engineer, building automated, containerized and scalable systems.
+
+Areas of expertise:
+
+Infrastructure and automation: I work with Ansible, Docker and Kubernetes on a daily basis, designing CI/CD pipelines and managing infrastructure as code. I also have solid experience with Linux and Red Hat based systems.
+
+Backend development: extensive experience in Python, Node.js and PHP, building REST APIs and service-oriented architectures. I am experienced in both relational and service-oriented design.
+
+Databases: solid experience with MySQL, schema design, query optimization and data modelling. I deal with SQL every day.
+
+Web and serving: Nginx configuration, reverse proxying, load balancing and performance tuning, as well as frontend work with HTML and CSS.
+
+I am the creator of several internal tools and automation frameworks. Find out more at github.com/vispce
+
+---
+
+### Profiles:
+
+* [GitHub](https://github.com/vispce)
+* [Email](mailto:vispce@gmail.com)
+
+---
+
+### Tech Stack:
 
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -18,21 +37,3 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=gitlab&logoColor=white)
-
-<div align="center">
-  <a href="mailto:vispce@gmail.com"><img src="https://img.shields.io/badge/Email-vispce%40gmail.com-000000?style=flat-square&logo=google&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vispce"><img src="https://img.shields.io/badge/GitHub-vispce-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
-### About Me
-
-* Full-Stack: Building web applications and services with Python, Node.js, PHP, Nginx, and MySQL.
-* Automation: Writing Ansible playbooks and CI/CD pipelines to ship reliably and repeatedly.
-* Containers: Running everything in Docker, orchestrating with Kubernetes, self-hosting services on my own VPS and NAS.
-* BTW: Frontend with HTML and CSS, keeping interfaces clean, fast and responsive.
-
-<div align="center">
-  <a href="https://github.com/vispce"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vispce&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" /></a><a href="https://github.com/vispce"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vispce&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="Top Languages" /></a>
-</div>
-
----
