@@ -1,28 +1,3 @@
-<div align="center">
-
-<svg width="720" height="60" viewBox="0 0 720 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"  stop-color="#bd34fe">
-        <animate attributeName="offset" values="0;0.5;0" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="30%" stop-color="#e0321b">
-        <animate attributeName="offset" values="0.3;0.8;0.3" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="60%" stop-color="#41d1ff">
-        <animate attributeName="offset" values="0.6;1;0.6" dur="10s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-family="'Noto Serif SC', serif" font-size="26" font-weight="600"
-        fill="url(#flowGrad)">
-    Doing anything isn't scary; doing nothing is.
-  </text>
-</svg>
-
-</div>
-
 Hi, I'm Jiachen. I specialize in DevOps, cloud infrastructure and full-stack engineering.
 
 I work as a DevOps / Full-Stack Engineer, building automated, containerized and scalable systems.
