@@ -4,13 +4,10 @@ I work as a DevOps / Full-Stack Engineer, building automated, containerized and 
 
 Areas of expertise:
 
-Infrastructure and automation: I work with Ansible, Docker and Kubernetes on a daily basis, designing CI/CD pipelines and managing infrastructure as code. I also have solid experience with Linux and Red Hat based systems.
-
-Backend development: extensive experience in Python, Node.js and PHP, building REST APIs and service-oriented architectures. I am experienced in both relational and service-oriented design.
-
-Databases: solid experience with MySQL, schema design, query optimization and data modelling. I deal with SQL every day.
-
-Web and serving: Nginx configuration, reverse proxying, load balancing and performance tuning, as well as frontend work with HTML and CSS.
+- Infrastructure and automation: I work with Ansible, Docker and Kubernetes on a daily basis, designing CI/CD pipelines and managing infrastructure as code. I also have solid experience with Linux and Red Hat based systems.
+- Backend development: extensive experience in Python, Node.js and PHP, building REST APIs and service-oriented architectures. I am experienced in both relational and service-oriented design.
+- Databases: solid experience with MySQL, schema design, query optimization and data modelling. I deal with SQL every day.
+- Web and serving: Nginx configuration, reverse proxying, load balancing and performance tuning, as well as frontend work with HTML and CSS.
 
 I am the creator of several internal tools and automation frameworks. Find out more at github.com/vispce
 
