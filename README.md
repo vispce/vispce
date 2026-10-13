@@ -19,8 +19,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=gitlab&logoColor=white)
 
-[![Email](https://img.shields.io/badge/Email-vispce%40gmail.com-000000?style=flat-square&logo=google&logoColor=white)](mailto:vispce@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vispce-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vispce)
+<div align="center">
+  <a href="mailto:vispce@gmail.com"><img src="https://img.shields.io/badge/Email-vispce%40gmail.com-000000?style=flat-square&logo=google&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vispce"><img src="https://img.shields.io/badge/GitHub-vispce-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
 ### About Me
 
