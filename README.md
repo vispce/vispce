@@ -1,5 +1,5 @@
 <h1 align="center">
-    Doing anything isn't scary; doing nothing is.
+    Doing anything isn't scary, doing nothing is.
 </h1>
 
 <div align="center">
