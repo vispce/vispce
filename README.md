@@ -1,4 +1,4 @@
-# Anything good happen today?
+<head align='center'>Doing anything isn't scary; doing nothing is.</head>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+%2B+Self-Hosting+Enthusiast;Full-Stack+Developer;Automation+Explorer;Ansible+%2B+K8s+4+The+Win!" alt="Typing SVG" />
@@ -16,8 +16,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=gitlab&logoColor=white)
 
-[![Email](https://img.shields.io/badge/Email-your%40email.com-000000?style=flat-square&logo=mail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-vispce%40gmail.com-000000?style=flat-square&logo=mail&logoColor=white)](mailto:vispce@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vispce-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vispce)
 
 ### About Me
 
@@ -27,7 +27,7 @@
 * **BTW:** Frontend with **HTML** and **CSS**, keeping interfaces clean, fast and responsive.
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" /></a><a href="https://github.com/YOUR_USERNAME"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="Top Languages" /></a>
+  <a href="https://github.com/vispce"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vispce&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" /></a><a href="https://github.com/vispce"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vispce&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="Top Languages" /></a>
 </div>
 
 ---
